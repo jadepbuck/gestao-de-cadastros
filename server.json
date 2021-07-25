@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://media.tiffany.com/is/image/Tiffany/EcomBrowseM/tiffany-novoanel-com-esmeralda-redonda-69542182_1027314_ED-69542182_1027314_ED.jpg?hei=320&wid=320",
+      "name":"Esmeralda",
+      "description": "Platina com diamantes",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "photo": "https://images.vivara.com.br/Stores/Fotos/AN00051530-v1.png",
+      "name":"Diamante",
+      "description": "Ouro branco e diamantes",
+      "price": 76990
+    },
+    {
+      "id": 3,
+      "photo": "https://images.vivara.com.br/Stores/Fotos/AN00051955-v1.png",
+      "name":"Marinha",
+      "description": "Água Marinha e diamantes",
+      "price": 12750
+    },
+    {
+      "id": 4,
+      "photo": "https://images.vivara.com.br/Stores/Fotos/AN00050215-v1.png",
+      "name":"Rosé",
+      "description": "Rosé com turmalina",
+      "price": 6500
+    },
+    {
+      "id": 5,
+      "photo": "https://images.vivara.com.br/Stores/Fotos/AN00050166-v1.png",
+      "name":"Safira",
+      "description": "Ouro Branco com Safira",
+      "price": 6290
+    },
+    {
+      "id": 6,
+      "photo": "https://images.vivara.com.br/Stores/Fotos/AN00049118-v1.jpg",
+      "name":"Sky",
+      "description": "Topázio Sky e Diamantes",
+      "price": 11000
+    },
+    {
+      "id": 7,
+      "photo": "https://images.vivara.com.br/Stores/Fotos/AN00050381-v1.jpg",
+      "name":"Tanzanita",
+      "description": "Ouro Branco com Tanzanita",
+      "price": 8000
+    },
+    {
+      "id": 8,
+      "photo": "https://images.vivara.com.br/Stores/Fotos/AN00049743-v111.png",
+      "name":"Gota",
+      "description": "Diamantes e esmeralda",
+      "price": 9900
+    }
+  ]  
+}
